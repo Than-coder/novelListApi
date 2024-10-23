@@ -1,8 +1,8 @@
 {
-    "date": "1729635561623",
-    "note": "",
-    "package": "than.novelv2",
-    "isImportant": "true",
     "name": "Novel V2",
-    "version": "1.0"
+    "version": "1.0",
+    "package": "than.novelv2",
+    "isImportant": true,
+    "note": "ချက်ချင်း update ",
+    "date": 1729649661682
 }
