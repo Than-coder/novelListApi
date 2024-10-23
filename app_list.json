@@ -2,5 +2,9 @@
   {
     "package": "than.novelv2",
     "name": "Novel V2"
+  },
+  {
+    "name": "Apyar",
+    "package": "than.apyar"
   }
 ]
