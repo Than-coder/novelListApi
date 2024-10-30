@@ -1,9 +1,9 @@
 {
     "name": "Novel V2",
-    "version": "1.6",
+    "version": "1.7",
     "package": "than.novelv2",
     "isImportant": true,
-    "note": "telegram ကနေ download လုပ်ထားတဲ့ data file ကို \n\"data Installer\" ထဲကနေ ထည့်သွင်းလို့ရပါတယ်။\n\nလောလောဆယ်တော့ telegram ကနေပဲ တင်ပေးနိုင်ပါသေးတယ်။\nbill နည်းနေလို့ပါ။\n\n\n",
-    "date": 1730171666131,
-    "size": "1354036"
+    "note": "version 1.6 မှာ mediafire ကနေ install လုပ်ရင် တက်နိုင်တဲ့ error ကို ပြင်ဆင်ထားပါတယ်။\n\nTelegram ကနေ download မလုပ်တတ်ရင် \nTelegram Download တဲ့ Group မှာ ပြုလုပ်နည်း video တင်ထားပေးပါတယ်။\n\n",
+    "date": 1730270841101,
+    "size": "1358209"
 }
